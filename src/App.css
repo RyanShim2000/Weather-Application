@@ -31,3 +31,27 @@
     transform: rotate(360deg);
   }
 }
+.el {
+  font-size: 25px;
+  padding: 1.5%;
+}
+
+.container {
+  padding: 10%;
+}
+
+button {
+  padding-top: 50px;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-weight: 800;
+}
+.el {
+  text-align: center;
+  color: white;
+  font-weight: 700;
+}
